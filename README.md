@@ -1,5 +1,3 @@
-# Master_Mbitschool
-
 # PC1: Consolidación de conocimientos de Pandas, SQL y NoSQL
 
 ## Objetivo
@@ -73,8 +71,6 @@ información sobre las Pull Requests.
 - La entrega se hará tanto a través de Campus como en el repositorio de Git asignado para el proyecto.
 
 ---
-
-¡Buena suerte con el proyecto! 😊
 
 #### Colaboradores:
 
