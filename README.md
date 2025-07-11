@@ -78,3 +78,4 @@ información sobre las Pull Requests.
 - Iñaki Herrán López
 - Miguel Frutos Revilla
 - Peter Wiliams Berna
+- Victor-AFT
