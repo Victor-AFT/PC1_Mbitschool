@@ -76,3 +76,9 @@ información sobre las Pull Requests.
 
 ¡Buena suerte con el proyecto! 😊
 
+#### Colaboradores:
+
+- Cristian Sánchez Miguel
+- Iñaki Herrán López
+- Miguel Frutos Revilla
+- Peter Wiliams Berna
