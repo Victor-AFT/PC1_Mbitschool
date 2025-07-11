@@ -4,7 +4,7 @@
 
 ## Objetivo
 Este proyecto tiene como objetivo consolidar conocimientos sobre la manipulación de datos con Pandas, el manejo de bases de datos relacionales (SQLite) y la preparación de los datos para una posible inserción en bases de datos 
-no relacionales (MongoDB). El tiempo estimado de trabajo es de 2-3 horas por alumno.
+no relacionales (MongoDB).
 
 Además, este proyecto integra elementos de cómo contribuir a bases de código ya existentes el GIT, por lo que  lee cuidadosamente
 las instrucciones de entrega al final del README.
